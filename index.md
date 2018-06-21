@@ -1,5 +1,5 @@
 ## Daniele Gerosa
-I am a PhD student in Mathematics at Lund University, [Center for Mathematical Sciences](http://www.maths.lu.se/english/). My main supervisor is [Marcus Carlsson](http://www.maths.lth.se/matematiklu/personal/mc/) (Lund University) and my co-supervisor is Rajmund Mokso (MAX IV Laboratory). I am studying Convex Analysis to be applied to Optimization problems, specifically to the phase retrieval problem.
+I am a PhD student in Mathematics at Lund University, [Center for Mathematical Sciences](http://www.maths.lu.se/english/). My main supervisor is [Marcus Carlsson](http://www.maths.lth.se/matematiklu/personal/mc/) (Lund University) and my co-supervisor is Rajmund Mokso (MAX IV Laboratory). I am studying Convex Analysis applied to Optimization problems, specifically to the phase retrieval problem.
 
 I am also interested in Real and Functional Analysis.
 
@@ -29,3 +29,5 @@ I have been an inner student of [Collegio Universitario don Nicola Mazza](https:
 Coming soon.
 
 ### Stuff I wrote
+- [My Bachelor thesis](infimalconvolution.github.io/bozza_tesi.pdf). 
+- My Master thesis.
