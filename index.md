@@ -8,7 +8,7 @@ I am also interested in Real and Functional Analysis.
 ### Short CV
 - **September 2017 - ongoing.** PhD in Mathematics at Lund University (Sweden), Center for Mathematical Sciences.
 
-   As part of departmental duties I work as teaching assistant in several courses. So far I led more than 100 hours of exercises (Linear Algebra II, Analysis in Several Variables I & II).
+   As part of departmental duties I work as teaching assistant in several courses. So far I led more than 100 hours of exercises sessions (Linear Algebra II, Analysis in Several Variables I & II).
 
 - **September 2015 - July 2017.** MSc in Mathematics at [Padova University](http://www.math.unipd.it/en/) (Italy). 
    
@@ -34,3 +34,7 @@ Coming soon.
 - [Abstract](https://www.dropbox.com/s/ysn6tiu411su46k/abstract_Gerosa.pdf?dl=0) and [notes](https://www.dropbox.com/s/ww0m8pm7vtzwerp/seminario_Gerosa.pdf?dl=0) on the surjectivity of the trace operator that I have written for a seminar.
 - [Notes](https://www.dropbox.com/s/ii4mqsjtthglzqo/Garding_ineq.pdf?dl=0) on the sharp Gårding inequality (proof and some comments).  
 - [Topics in General Topology](https://www.dropbox.com/s/t947ku67km0at1e/top_exam.pdf?dl=0). A selection for a presentation.
+
+
+### Interests
+Mathematics, Cinema, Philosophy of Language, Music, Years of Lead, Memes.
