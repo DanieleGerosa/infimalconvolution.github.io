@@ -29,5 +29,8 @@ I have been an inner student of [Collegio Universitario don Nicola Mazza](https:
 Coming soon.
 
 ### Stuff I wrote
-- [My Bachelor thesis](infimalconvolution.github.io/bozza_tesi.pdf). 
-- My Master thesis.
+- [My Bachelor thesis](https://www.dropbox.com/s/mcv4d39av3wiaxk/bozza_tesi.pdf?dl=0) (in italian). 
+- [My Master thesis](https://www.dropbox.com/s/y1pzb181nov0qfu/bozza_tesiM.pdf?dl=0). A paper with an extension of the result proved here has been recently submitted.
+- [Abstract](https://www.dropbox.com/s/ysn6tiu411su46k/abstract_Gerosa.pdf?dl=0) and [notes](https://www.dropbox.com/s/ww0m8pm7vtzwerp/seminario_Gerosa.pdf?dl=0) on the surjectivity of the trace operator that I have written for a seminar.
+- [Notes](https://www.dropbox.com/s/ii4mqsjtthglzqo/Garding_ineq.pdf?dl=0) on the sharp Gårding inequality (proof and some comments).  
+- [Topics in General Topology](https://www.dropbox.com/s/t947ku67km0at1e/top_exam.pdf?dl=0). A selection for a presentation.
