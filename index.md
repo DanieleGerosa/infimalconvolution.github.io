@@ -15,7 +15,7 @@ I am also interested in Real and Functional Analysis.
    Thesis title: "Trace theorem for the Martinet distribution".
 - **August 2015 - December 2015.** Exchange student at [Bergen University](https://www.uib.no/en/math) (Norway).
 
-- **September 2011 - July 2015.** BSc in Mathematics at University of Padova (Italy).
+- **September 2011 - July 2015.** BSc in Mathematics at Padova University (Italy).
 
    Thesis advisor: prof. Roberto Monti.
    
