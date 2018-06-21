@@ -3,6 +3,8 @@ I am a PhD student in Mathematics at Lund University, [Center for Mathematical S
 
 I am also interested in Real and Functional Analysis.
 
+[Here](https://www.lunduniversity.lu.se/lucat/user/2d8ba6912dbc7ae12dce2825925c0d50) my institutional email address.
+
 ### Short CV
 - **September 2017 - ongoing.** PhD in Mathematics at Lund University (Sweden), Center for Mathematical Sciences.
 
@@ -20,3 +22,8 @@ I am also interested in Real and Functional Analysis.
    Thesis title: "Gromov-Hausdorff metric and existence of geodesics".
    
 I have been an inner student of [Collegio Universitario don Nicola Mazza](https://www.collegiomazza.it/) for the whole period of my italian academic studies.
+
+### Papers
+Coming soon.
+
+### Stuff I wrote
