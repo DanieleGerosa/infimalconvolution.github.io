@@ -8,6 +8,8 @@ I am also interested in Real and Functional Analysis.
 ### Short CV
 - **September 2017 - ongoing.** PhD in Mathematics at Lund University (Sweden), Center for Mathematical Sciences.
 
+   As part of departmental duties I work as teaching assistant in several courses. So far I led more than 100 hours of exercises (Linear Algebra II, Analysis in Several Variables I & II).
+
 - **September 2015 - July 2017.** MSc in Mathematics at [Padova University](http://www.math.unipd.it/en/) (Italy). 
    
    Thesis advisor: prof. [Roberto Monti](http://www.math.unipd.it/~monti/).
