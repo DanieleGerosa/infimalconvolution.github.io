@@ -26,7 +26,8 @@ I am also interested in Real and Functional Analysis.
 I have been an inner student of [Collegio Universitario don Nicola Mazza](https://www.collegiomazza.it/) for the whole period of my italian academic studies.
 
 ### Papers
-Coming soon.
+- *A Trace Theorem of the Martinet-type Vector Fields*, with Roberto Monti and Daniele Morbidelli, 2018. Submitted. [Here](https://arxiv.org/pdf/1806.07953.pdf) the arXiv version.
+- *An Un-biased Approach to Compressed Sensing*, with Marcus Carlsson and Carl Olsson, 2018. Submitted. [Here](https://arxiv.org/pdf/1806.05283.pdf) the arXiv version.
 
 ### Stuff I wrote
 - [My Bachelor thesis](https://www.dropbox.com/s/mcv4d39av3wiaxk/bozza_tesi.pdf?dl=0) (in italian). 
