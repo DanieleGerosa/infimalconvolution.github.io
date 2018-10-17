@@ -29,6 +29,10 @@ I have been an inner student of [Collegio Universitario don Nicola Mazza](https:
 - *A Trace Theorem of the Martinet-type Vector Fields*, with Roberto Monti and Daniele Morbidelli, 2018. Submitted. [Here](https://arxiv.org/pdf/1806.07953.pdf) the arXiv version.
 - *An Un-biased Approach to Compressed Sensing*, with Marcus Carlsson and Carl Olsson, 2018. Submitted. [Here](https://arxiv.org/pdf/1806.05283.pdf) the arXiv version.
 
+### Conferences
+
+- **16-17 October 2018, Uppsala.** Swedish eScience Academy. [Here](https://www.dropbox.com/s/8csdv2imofluozl/poster.pdf?dl=0) my poster. 
+
 ### Stuff I wrote
 - [My Bachelor thesis](https://www.dropbox.com/s/mcv4d39av3wiaxk/bozza_tesi.pdf?dl=0) (in italian). 
 - [My Master thesis](https://www.dropbox.com/s/y1pzb181nov0qfu/bozza_tesiM.pdf?dl=0). A paper with an extension of the result proved here has been recently submitted.
