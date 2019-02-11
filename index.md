@@ -9,6 +9,8 @@ I am also interested in Real and Functional Analysis.
 - **September 2017 - ongoing.** PhD in Mathematics at Lund University (Sweden), Center for Mathematical Sciences.
 
    As part of departmental duties I work as teaching assistant in several courses. So far I led more than 160 hours of exercises sessions (Analysis in One Variable, Linear Algebra II, Analysis in Several Variables I & II). Grading of exams and mid-term assigments is part of teaching duties too.
+   
+   In Sweden doctoral education consists also in a certain number of courses. I have attended the following: specialized course in Distributions Theory (classical Pseudo-Differential Operators theory, Paradifferential Calculus), Optimization, Convex Analysis, X-Ray Optics, Introduction to Deep Learning, specialized course in Linear Functional Analysis, Nonparametric Inference (ongoing) and Teaching and Learning in Higher Education (ongoing).
 
 - **September 2015 - July 2017.** MSc in Mathematics at [Padova University](http://www.math.unipd.it/en/) (Italy). 
    
@@ -30,8 +32,8 @@ I have been an inner student of [Collegio Universitario don Nicola Mazza](https:
 - *An Un-biased Approach to Compressed Sensing*, with Marcus Carlsson and Carl Olsson, 2018. Submitted. [Here](https://arxiv.org/pdf/1806.05283.pdf) the arXiv version.
 - *Bias Reduction in Compressed Sensing*, conference paper, with Marcus Carlsson and Carl Olsson, 2018. Submitted. [Here](https://arxiv.org/pdf/1812.11329.pdf) the arXiv version.
 
-### Conferences
-
+### Conferences & Workshops
+- **15-17 May 2018, Lund.** [CodeRefinery Workshop](https://coderefinery.org/workshops/2018-05-15-lund/).
 - **16-17 October 2018, Uppsala.** Swedish eScience Academy. [Here](https://www.dropbox.com/s/8csdv2imofluozl/poster.pdf?dl=0) my poster. 
 
 ### Stuff I wrote
