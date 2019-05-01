@@ -1,5 +1,5 @@
 ## Daniele Gerosa
-I am a PhD student in Mathematics at Lund University, [Center for Mathematical Sciences](http://www.maths.lu.se/english/). My main supervisor is [Marcus Carlsson](http://www.maths.lth.se/matematiklu/personal/mc/) (Lund University) and my co-supervisor is Rajmund Mokso (MAX IV Laboratory). I am studying Convex Analysis and Matrix Theory applied to compressed sensing and optimization problems, specifically to the phase retrieval problem.
+I am a PhD student in Mathematics at Lund University, [Center for Mathematical Sciences](http://www.maths.lu.se/english/). My main supervisor is [Marcus Carlsson](http://www.maths.lth.se/matematiklu/personal/mc/) (Lund University) and my co-supervisor is Rajmund Mokso (MAX IV Laboratory). I am studying Convex Analysis and Matrix Theory applied to compressed sensing and optimization problems, with a specific interest into the phase retrieval problem arising in Coherent Diffractive Imaging.
 
 I am also interested in Real and Functional Analysis.
 
@@ -8,9 +8,9 @@ I am also interested in Real and Functional Analysis.
 ### Short CV
 - **September 2017 - ongoing.** PhD in Mathematics at Lund University (Sweden), Center for Mathematical Sciences.
 
-   As part of departmental duties I work as teaching assistant in several courses. So far I led more than 160 hours of exercises sessions (Analysis in One Variable, Linear Algebra II, Analysis in Several Variables I & II). Grading of exams and mid-term assigments is part of teaching duties too.
+   As part of departmental duties I work as teaching assistant in several courses. So far I led more than 200 hours of exercises sessions (Analysis in One Variable, Linear Algebra II, Analysis in Several Variables I & II). Grading of exams and mid-term assigments is part of teaching duties too.
    
-   In Sweden doctoral education consists also in a certain number of courses to be attended. I have attended the following: specialized course in Distributions Theory (classical Pseudo-Differential Operators theory, Paradifferential Calculus), Optimization, Convex Analysis, X-Ray Optics, Introduction to Deep Learning, specialized course in Linear Functional Analysis, Nonparametric Inference (ongoing) and Teaching and Learning in Higher Education (ongoing).
+   In Sweden doctoral education consists also in a certain number of courses to be attended. I have attended and passed the following: specialized course in Distributions Theory (classical Pseudo-Differential Operators theory, Paradifferential Calculus), Convex Analysis, X-Ray Optics, Introduction to Deep Learning, specialized course in Linear Functional Analysis, Nonparametric Inference and Teaching and Learning in Higher Education.
 
 - **September 2015 - July 2017.** MSc in Mathematics at [Padova University](http://www.math.unipd.it/en/) (Italy). 
    
@@ -35,6 +35,7 @@ I have been an inner student of [Collegio Universitario don Nicola Mazza](https:
 ### Conferences & Workshops
 - **15-17 May 2018, Lund.** [CodeRefinery Workshop](https://coderefinery.org/workshops/2018-05-15-lund/).
 - **16-17 October 2018, Uppsala.** Swedish eScience Academy. [Here](https://www.dropbox.com/s/8csdv2imofluozl/poster.pdf?dl=0) my poster. 
+- **4 April 2019, Lund.** [Inverse problems in X-ray phase retrieval and tomography](http://www.linxs.lu.se/events/2019/4/4/inverse-problems-in-x-ray-phase-retrieval-and-tomography).
 
 ### Stuff I wrote
 - [My Bachelor thesis](https://www.dropbox.com/s/mcv4d39av3wiaxk/bozza_tesi.pdf?dl=0) (in italian). 
