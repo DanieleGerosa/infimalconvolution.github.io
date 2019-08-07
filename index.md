@@ -47,4 +47,4 @@ I have been an inner student of [Collegio Universitario don Nicola Mazza](https:
 
 
 ### Interests
-Mathematics, Cinema, Philosophy of Language, Music, Years of Lead, Memes.
+Mathematics, cinema, philosophy of language, music, Years of Lead, memes, YouTube trash, weird videos. 
