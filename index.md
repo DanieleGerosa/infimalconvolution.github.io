@@ -1,7 +1,7 @@
 ## Daniele Gerosa
 I am a PhD student in Mathematics at Lund University, [Center for Mathematical Sciences](http://www.maths.lu.se/english/). My main supervisor is [Marcus Carlsson](http://www.maths.lth.se/matematiklu/personal/mc/) (Lund University) and my co-supervisor is [Rajmund Mokso](https://www.lunduniversity.lu.se/lucat/user/d36645bc16f71bc54758956dc51d715d) (MAX IV Laboratory). I am studying Convex Analysis and Matrix Theory applied to compressed sensing and optimization problems, with a specific interest into the phase retrieval problem arising in Coherent Diffractive Imaging.
 
-I am also interested in Real and Functional Analysis.\(e^c\)
+I am also interested in Real and Functional Analysis.$e^c$
 
 [Here](https://www.lunduniversity.lu.se/lucat/user/2d8ba6912dbc7ae12dce2825925c0d50) my institutional email address.
 
