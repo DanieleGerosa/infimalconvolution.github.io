@@ -8,7 +8,7 @@ I am also interested in Real and Functional Analysis.
 ### Short CV
 - **September 2017 - ongoing.** PhD in Mathematics at Lund University (Sweden), Center for Mathematical Sciences.
 
-   As part of departmental duties I work as teaching assistant in several courses. So far I led more than 200 hours of exercises sessions (Analysis in One Variable, Linear Algebra II, Analysis in Several Variables I & II). Grading of exams and mid-term assigments is part of teaching duties too.
+   As part of departmental duties I work as teaching assistant in several courses. So far I led more than 300 hours of exercises sessions (Analysis in One Variable, Linear Algebra II, Analysis in Several Variables I & II). Grading of exams and mid-term assigments is part of teaching duties too.
    
    In Sweden doctoral education consists also in a certain number of courses to be attended. I have attended and passed the following: specialized course in Distributions Theory (classical Pseudo-Differential Operators theory, Paradifferential Calculus), Convex Analysis, X-Ray Optics, Introduction to Deep Learning, specialized course in Linear Functional Analysis, Nonparametric Inference and Teaching and Learning in Higher Education.
 
