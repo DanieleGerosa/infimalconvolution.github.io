@@ -28,7 +28,7 @@ I am also interested in Real and Functional Analysis.
 I have been an inner student of [Collegio Universitario don Nicola Mazza](https://www.collegiomazza.it/en/) for the whole period of my italian academic studies.
 
 ### Contributions
-- *A Trace Theorem for Martinet-type Vector Fields*, with Roberto Monti and Daniele Morbidelli, 2019. *Communications in Contemporary Mathematics*. [Here](https://www.worldscientific.com/doi/pdf/10.1142/S0219199719500664) the journal version.
+- *A Trace Theorem for Martinet-type Vector Fields*, with Roberto Monti and Daniele Morbidelli, 2019. *Communications in Contemporary Mathematics*. [[arXiv](https://arxiv.org/pdf/1806.07953.pdf), [eprint](https://doi.org/10.1142/S0219199719500664)]
 - *An Un-biased approach to compressed sensing*, with Marcus Carlsson and Carl Olsson, 2018. Submitted. [Here](https://arxiv.org/pdf/1806.05283.pdf) the arXiv version.
 - *Bias Reduction in Compressed Sensing*, conference paper, with Marcus Carlsson and Carl Olsson, 2018. Submitted. [Here](https://arxiv.org/pdf/1812.11329.pdf) the arXiv version.
 - *On phase retrieval via matrix completion and the estimation of low rank PSD matrices*, with Marcus Carlsson, 2019. *Inverse Problems* 36(1). [Here](https://iopscience.iop.org/article/10.1088/1361-6420/ab4e6d/meta) the journal version of the manuscript.
