@@ -32,7 +32,7 @@ I have been an inner student of [Collegio Universitario don Nicola Mazza](https:
 - *An Un-biased approach to compressed sensing*, with Marcus Carlsson and Carl Olsson, 2018. Submitted. [[arXiv](https://arxiv.org/pdf/1806.05283v5.pdf)]
 - *Bias Reduction in Compressed Sensing*, conference paper, with Marcus Carlsson and Carl Olsson, 2018. Submitted. [[arXiv](https://arxiv.org/pdf/1812.11329v1.pdf)]
 - *On phase retrieval via matrix completion and the estimation of low rank PSD matrices*, with Marcus Carlsson, 2019. *Inverse Problems*, 36(1). [[arXiv](https://arxiv.org/pdf/1907.09537v2.pdf), [eprint](https://iopscience.iop.org/article/10.1088/1361-6420/ab4e6d/meta)]
-- *An un-biased approach to low rank recovery*, with Marcus Carlsson and Carl Olsson, 2019. Submitted. [arXiv](https://arxiv.org/pdf/1909.13363v2.pdf)
+- *An un-biased approach to low rank recovery*, with Marcus Carlsson and Carl Olsson, 2019. Submitted. [[arXiv](https://arxiv.org/pdf/1909.13363v2.pdf)]
 
 ### Conferences & Workshops
 - **15-17 May 2018, Lund.** [CodeRefinery Workshop](https://coderefinery.org/workshops/2018-05-15-lund/).
