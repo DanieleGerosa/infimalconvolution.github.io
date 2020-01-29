@@ -1,5 +1,5 @@
 ## Daniele Gerosa
-I am a PhD student in Mathematics at Lund University, [Center for Mathematical Sciences](http://www.maths.lu.se/english/) (where, among other beautiful minds, [Lars Hörmander](https://en.wikipedia.org/wiki/Lars_H%C3%B6rmander), [Lars Gårding](https://en.wikipedia.org/wiki/Lars_G%C3%A5rding) and [Marcel Riesz](https://en.wikipedia.org/wiki/Marcel_Riesz) spent most of their worklives). My main supervisor is [Marcus Carlsson](http://www.maths.lth.se/matematiklu/personal/mc/) (Lund University) and my co-supervisor is [Rajmund Mokso](https://www.lunduniversity.lu.se/lucat/user/d36645bc16f71bc54758956dc51d715d) (MAX IV Laboratory). I am studying Convex Analysis and Matrix Theory applied to compressed sensing and optimization problems, with a specific interest into the phase retrieval problem arising in Coherent Diffractive Imaging.
+I am a PhD student in Mathematics at Lund University, [Center for Mathematical Sciences](http://www.maths.lu.se/english/) (where, among other beautiful minds, [Lars Hörmander](https://en.wikipedia.org/wiki/Lars_H%C3%B6rmander), [Lars Gårding](https://en.wikipedia.org/wiki/Lars_G%C3%A5rding) and [Marcel Riesz](https://en.wikipedia.org/wiki/Marcel_Riesz) spent most of their worklives). I am supervised by [Marcus Carlsson](http://www.maths.lth.se/matematiklu/personal/mc/) (Lund University). I am studying Convex Analysis and Matrix Theory applied to compressed sensing and optimization problems, with a specific interest into the phase retrieval problem arising in Coherent Diffractive Imaging.
 
 I am also interested in Real and Functional Analysis.
 
@@ -10,7 +10,7 @@ I am also interested in Real and Functional Analysis.
 
    As part of departmental duties I work as teaching assistant in several courses. So far I led more than 300 hours of exercises sessions (Analysis in One Variable, Linear Algebra II, Analysis in Several Variables I & II). Grading of exams and mid-term assigments is part of teaching duties too.
    
-   In Sweden doctoral education consists also in a certain number of courses to be attended. I have attended and passed the following: specialized course in Distributions Theory (classical Pseudo-Differential Operators theory, Paradifferential Calculus), Convex Analysis, X-Ray Optics, Introduction to Deep Learning, specialized course in Linear Functional Analysis, Nonparametric Inference and Teaching and Learning in Higher Education.
+   In Sweden doctoral education consists also in a certain number of courses to be attended. I have so far attended and passed the following: specialized course in Distributions Theory (classical Pseudo-Differential Operators theory, Paradifferential Calculus), specialized course in Linear Functional Analysis, Convex Analysis, X-Ray Optics, Introduction to Deep Learning, Image Analysis, Nonparametric Inference, Teaching and Learning in Higher Education.
 
 - **September 2015 - July 2017.** MSc in Mathematics at [Padova University](http://www.math.unipd.it/en/) (Italy). 
    
