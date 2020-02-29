@@ -1,7 +1,7 @@
 ## Daniele Gerosa
 I am a PhD student in Mathematics at Lund University, [Center for Mathematical Sciences](http://www.maths.lu.se/english/) (where, among other beautiful minds, [Lars Hörmander](https://en.wikipedia.org/wiki/Lars_H%C3%B6rmander), [Lars Gårding](https://en.wikipedia.org/wiki/Lars_G%C3%A5rding) and [Marcel Riesz](https://en.wikipedia.org/wiki/Marcel_Riesz) spent most of their worklives). I am supervised by [Marcus Carlsson](http://www.maths.lth.se/matematiklu/personal/mc/) (Lund University). I am studying Convex Analysis and Matrix Theory applied to compressed sensing and optimization problems, with a specific interest into the phase retrieval problem arising in Coherent Diffractive Imaging.
 
-I am also interested in Real and Functional Analysis.
+I also enjoy solving hard and challenging problems in Real and Functional Analysis.
 
 [Here](https://www.lunduniversity.lu.se/lucat/user/2d8ba6912dbc7ae12dce2825925c0d50) my institutional email address.
 
