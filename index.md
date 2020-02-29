@@ -10,7 +10,7 @@ I am also interested in Real and Functional Analysis.
 
    As part of departmental duties I work as teaching assistant in several courses. So far I led more than 400 hours of exercises sessions (Analysis in One Variable, Linear Algebra II, Analysis in Several Variables I & II). Grading of exams and mid-term assigments is part of teaching duties too.
    
-   In Sweden doctoral education consists also in a certain number of courses to be attended (60 ECTS at least). I have so far attended and passed the following: specialized course in Distributions Theory (classical Pseudo-Differential Operators theory, Paradifferential Calculus), specialized course in Linear Functional Analysis, Convex Analysis, X-Ray Optics, Introduction to Deep Learning, Image Analysis, Nonparametric Inference, Teaching and Learning in Higher Education.
+   In Sweden doctoral education consists also in a certain number of advanced courses to be attended (60 ECTS at least). I have so far attended and passed the following: specialized course in Distributions Theory (classical Pseudo-Differential Operators theory, Paradifferential Calculus), specialized course in Linear Functional Analysis, Convex Analysis, X-Ray Optics, Introduction to Deep Learning, Image Analysis, Nonparametric Inference, Teaching and Learning in Higher Education.
 
 - **September 2015 - July 2017.** MSc in Mathematics at [Padova University](http://www.math.unipd.it/en/) (Italy). 
    
