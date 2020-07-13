@@ -1,5 +1,5 @@
 ## Daniele Gerosa
-I am a PhD student in Mathematics at Lund University, [Center for Mathematical Sciences](http://www.maths.lu.se/english/) (where, among other beautiful minds, [Lars Hörmander](https://en.wikipedia.org/wiki/Lars_H%C3%B6rmander), [Lars Gårding](https://en.wikipedia.org/wiki/Lars_G%C3%A5rding) and [Marcel Riesz](https://en.wikipedia.org/wiki/Marcel_Riesz) spent most of their worklives). I am supervised by [Marcus Carlsson](http://www.maths.lth.se/matematiklu/personal/mc/) (Lund University). My research is focused on some aspects of compressed sensing, non-convex optimization and low rank recovery.
+I am a PhD student in Mathematics at Lund University, [Center for Mathematical Sciences](http://www.maths.lu.se/english/) (where, among other beautiful minds, [Lars Hörmander](https://en.wikipedia.org/wiki/Lars_H%C3%B6rmander), [Lars Gårding](https://en.wikipedia.org/wiki/Lars_G%C3%A5rding) and [Marcel Riesz](https://en.wikipedia.org/wiki/Marcel_Riesz) spent most of their worklives). I am supervised by [Marcus Carlsson](http://www.maths.lth.se/matematiklu/personal/mc/) (Lund University). My research is focused on some aspects of compressed sensing, non-convex optimization and low-rank matrix recovery.
 
 I also enjoy solving hard and challenging problems in Real and Functional Analysis.
 
