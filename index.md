@@ -6,20 +6,20 @@ I also enjoy solving hard and challenging problems in Real and Functional Analys
 [Here](https://www.lunduniversity.lu.se/lucat/user/2d8ba6912dbc7ae12dce2825925c0d50) my institutional email address.
 
 ### Short CV
-- **September 2017 - ongoing (defense expected within September 2022).** PhD in Mathematics at Lund University (Sweden), Center for Mathematical Sciences.
+- **September 2017 - ongoing (defense expected within September 2022).** PhD in Mathematics at Lunds Universitet (Sweden), Center for Mathematical Sciences.
 
    As part of departmental duties I work as teaching assistant in several courses. So far I led more than 400 hours of exercises sessions (Analysis in One Variable, Linear Algebra II, Analysis in Several Variables I & II). Grading of exams and mid-term assigments is part of teaching duties too.
    
    In Sweden doctoral education consists also in a certain number of advanced courses to be attended (60 ECTS at least). I have so far attended and passed the following: specialized course in Distributions Theory (classical Pseudo-Differential Operators theory, Paradifferential Calculus), specialized course in Linear Functional Analysis, Convex Analysis, X-Ray Optics, Introduction to Deep Learning, Image Analysis, Nonparametric Inference, Teaching and Learning in Higher Education.
 
-- **September 2015 - July 2017.** MSc in Mathematics at [Padova University](http://www.math.unipd.it/en/) (Italy). 
+- **September 2015 - July 2017.** MSc in Mathematics at [Università degli Studi di Padova](http://www.math.unipd.it/en/) (Italy). 
    
    Thesis advisor: prof. [Roberto Monti](http://www.math.unipd.it/~monti/).
    
    Thesis title: *Trace theorem for the Martinet distribution*.
-- **August 2015 - December 2015.** Exchange student at [Bergen University](https://www.uib.no/en/math) (Norway).
+- **August 2015 - December 2015.** Exchange student at [Universitetet i Bergen](https://www.uib.no/en/math) (Norway).
 
-- **September 2011 - July 2015.** BSc in Mathematics at Padova University (Italy).
+- **September 2011 - July 2015.** BSc in Mathematics at Università degli Studi di Padova (Italy).
 
    Thesis advisor: prof. Roberto Monti.
    
