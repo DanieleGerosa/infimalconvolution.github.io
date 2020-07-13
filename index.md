@@ -1,5 +1,5 @@
 ## Daniele Gerosa
-I am a PhD student in Mathematics at Lund University, [Center for Mathematical Sciences](http://www.maths.lu.se/english/) (where, among other beautiful minds, [Lars Hörmander](https://en.wikipedia.org/wiki/Lars_H%C3%B6rmander), [Lars Gårding](https://en.wikipedia.org/wiki/Lars_G%C3%A5rding) and [Marcel Riesz](https://en.wikipedia.org/wiki/Marcel_Riesz) spent most of their worklives). I am supervised by [Marcus Carlsson](http://www.maths.lth.se/matematiklu/personal/mc/) (Lund University). I am studying Convex Analysis and Matrix Theory applied to compressed sensing and optimization problems, with a specific interest into the phase retrieval problem arising in Coherent Diffractive Imaging.
+I am a PhD student in Mathematics at Lund University, [Center for Mathematical Sciences](http://www.maths.lu.se/english/) (where, among other beautiful minds, [Lars Hörmander](https://en.wikipedia.org/wiki/Lars_H%C3%B6rmander), [Lars Gårding](https://en.wikipedia.org/wiki/Lars_G%C3%A5rding) and [Marcel Riesz](https://en.wikipedia.org/wiki/Marcel_Riesz) spent most of their worklives). I am supervised by [Marcus Carlsson](http://www.maths.lth.se/matematiklu/personal/mc/) (Lund University). My research is focused on some aspects of compressed sensing, non-convex optimization and low rank recovery.
 
 I also enjoy solving hard and challenging problems in Real and Functional Analysis.
 
@@ -38,9 +38,10 @@ I have been an inner student of [Collegio Universitario don Nicola Mazza](https:
 - **15-17 May 2018, Lund.** [CodeRefinery Workshop](https://coderefinery.org/workshops/2018-05-15-lund/).
 - **16-17 October 2018, Uppsala.** Swedish eScience Academy. [Here](https://www.dropbox.com/s/8csdv2imofluozl/poster.pdf?dl=0) my poster. 
 - **4 April 2019, Lund.** [Inverse problems in X-ray phase retrieval and tomography](http://www.linxs.lu.se/events/2019/4/4/inverse-problems-in-x-ray-phase-retrieval-and-tomography).
+- **6-17 July 2020.** [SIAM Conference on Imaging Science (Virtual)](https://www.siam.org/conferences/cm/conference/is20).
 
 ### Stuff I wrote
-- [My Bachelor thesis](https://www.dropbox.com/s/mcv4d39av3wiaxk/bozza_tesi.pdf?dl=0) (in italian). 
+- [My Bachelor thesis](https://www.dropbox.com/s/mcv4d39av3wiaxk/bozza_tesi.pdf?dl=0) (in Italian). 
 - [My Master thesis](https://www.dropbox.com/s/y1pzb181nov0qfu/bozza_tesiM.pdf?dl=0). 
 - [Abstract](https://www.dropbox.com/s/ysn6tiu411su46k/abstract_Gerosa.pdf?dl=0) and [notes](https://www.dropbox.com/s/ww0m8pm7vtzwerp/seminario_Gerosa.pdf?dl=0) on the surjectivity of the trace operator that I have written for a seminar.
 - [Notes](https://www.dropbox.com/s/ii4mqsjtthglzqo/Garding_ineq.pdf?dl=0) on the sharp Gårding inequality. The proof is, more or less verbatim, the one in Lars Hörmander's *Analysis of Linear Partial Differential Operators*. I added some comments and expanded some "obscure" steps.   
