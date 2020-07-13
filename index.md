@@ -43,11 +43,12 @@ I have been an inner student of [Collegio Universitario don Nicola Mazza](https:
 ### Stuff I wrote
 - [My Bachelor thesis](https://www.dropbox.com/s/mcv4d39av3wiaxk/bozza_tesi.pdf?dl=0) (in Italian). 
 - [My Master thesis](https://www.dropbox.com/s/y1pzb181nov0qfu/bozza_tesiM.pdf?dl=0). 
+- [Topics in General Topology](https://www.dropbox.com/s/t947ku67km0at1e/top_exam.pdf?dl=0). A selection for a presentation.
 - [Abstract](https://www.dropbox.com/s/ysn6tiu411su46k/abstract_Gerosa.pdf?dl=0) and [notes](https://www.dropbox.com/s/ww0m8pm7vtzwerp/seminario_Gerosa.pdf?dl=0) on the surjectivity of the trace operator that I have written for a seminar.
 - [Notes](https://www.dropbox.com/s/ii4mqsjtthglzqo/Garding_ineq.pdf?dl=0) on the sharp Gårding inequality. The proof is, more or less verbatim, the one in Lars Hörmander's *Analysis of Linear Partial Differential Operators*. I added some comments and expanded some "obscure" steps.   
 - [An invitation to Quantum Tomography](https://www.dropbox.com/s/vadzd48na35510n/nonparametric_inference_pres.pdf?dl=0), a brief note written for a presentation.
-- One dimensional retina vision problem. [Report](https://www.dropbox.com/s/fvl5bn2oazh7x6m/report_Gerosa2020.pdf?dl=0) and presentation.
-- [Topics in General Topology](https://www.dropbox.com/s/t947ku67km0at1e/top_exam.pdf?dl=0). A selection for a presentation.
+- One dimensional retina vision problem. [Report](https://www.dropbox.com/s/fvl5bn2oazh7x6m/report_Gerosa2020.pdf?dl=0) and [presentation](https://www.dropbox.com/s/h2l8aocf0eatno5/ImAnalysis_pres_Gerosa.pdf?dl=0).
+- [The Concentration-Compactness principle](https://www.dropbox.com/s/le3niocolj2qw48/CalcVar_Gerosa2020.pdf?dl=0).
 - Exercises compendium. To appear.
 
 
