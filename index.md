@@ -29,16 +29,17 @@ I have been an inner student of [Collegio Universitario don Nicola Mazza](https:
 
 ### Contributions
 - *A Trace Theorem for Martinet-type Vector Fields*, with Roberto Monti and Daniele Morbidelli, 2019. *Communications in Contemporary Mathematics*. [[cvgmt](http://cvgmt.sns.it/paper/4095/), [arXiv](https://arxiv.org/pdf/1806.07953.pdf), [eprint](https://doi.org/10.1142/S0219199719500664)]
-- *An Un-biased approach to compressed sensing*, with Marcus Carlsson and Carl Olsson, 2018. Submitted. [[arXiv](https://arxiv.org/pdf/1806.05283v5.pdf)]
+- *An unbiased approach to compressed sensing*, with Marcus Carlsson and Carl Olsson, 2018. To appear in Inverse Problems. [[eprint](https://iopscience.iop.org/article/10.1088/1361-6420/abbd7f)]
 - *Bias Reduction in Compressed Sensing*, conference paper, with Marcus Carlsson and Carl Olsson, 2018. Submitted. [[arXiv](https://arxiv.org/pdf/1812.11329v1.pdf)]
 - *On phase retrieval via matrix completion and the estimation of low rank PSD matrices*, with Marcus Carlsson, 2019. *Inverse Problems*, 36(1). [[arXiv](https://arxiv.org/pdf/1907.09537v2.pdf), [eprint](https://iopscience.iop.org/article/10.1088/1361-6420/ab4e6d/meta)]
 - *An un-biased approach to low rank recovery*, with Marcus Carlsson and Carl Olsson, 2019. Submitted. [[arXiv](https://arxiv.org/pdf/1909.13363v2.pdf)]
 
-### Conferences & Workshops
+### Conferences, Workshops & Seminars
 - **15-17 May 2018, Lund.** [CodeRefinery Workshop](https://coderefinery.org/workshops/2018-05-15-lund/).
 - **16-17 October 2018, Uppsala.** Swedish eScience Academy. [Here](https://www.dropbox.com/s/8csdv2imofluozl/poster.pdf?dl=0) my poster. 
 - **4 April 2019, Lund.** [Inverse problems in X-ray phase retrieval and tomography](http://www.linxs.lu.se/events/2019/4/4/inverse-problems-in-x-ray-phase-retrieval-and-tomography).
 - **6-17 July 2020.** [SIAM Conference on Imaging Science (Virtual)](https://www.siam.org/conferences/cm/conference/is20).
+- **29 September 2020.** Department seminar, Lund University. [Here](https://www.dropbox.com/s/z5dlog24w26e2tc/SeminarResearch_Sept2020.pdf?dl=0) the slides of my talk.
 
 ### Stuff I wrote
 - [My Bachelor thesis](https://www.dropbox.com/s/mcv4d39av3wiaxk/bozza_tesi.pdf?dl=0) (in Italian). 
