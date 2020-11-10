@@ -25,7 +25,7 @@ I also enjoy solving hard and challenging problems in Real and Functional Analys
    
    Thesis title: *Gromov-Hausdorff metric and existence of geodesics*.
    
-I have been an inner student of [Collegio Universitario don Nicola Mazza](https://www.collegiomazza.it/en/) for the whole period of my italian academic studies.
+I have been a student of [Collegio Universitario don Nicola Mazza](https://www.collegiomazza.it/en/) for the entire period of my Italian academic education.
 
 ### Contributions
 - *A Trace Theorem for Martinet-type Vector Fields*, with Roberto Monti and Daniele Morbidelli, 2019. *Communications in Contemporary Mathematics*. [[cvgmt](http://cvgmt.sns.it/paper/4095/), [arXiv](https://arxiv.org/pdf/1806.07953.pdf), [eprint](https://doi.org/10.1142/S0219199719500664)]
