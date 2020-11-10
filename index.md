@@ -53,4 +53,4 @@ I have been an inner student of [Collegio Universitario don Nicola Mazza](https:
 
 
 ### Interests
-Mathematics, cinema, philosophy of language, music, Years of Lead, memes, YouTube trash, weird videos. 
+Mathematics, cinema, philosophy of language, music, [Years of Lead](https://en.wikipedia.org/wiki/Years_of_Lead_(Italy)), memes, YouTube trash, weird videos. 
