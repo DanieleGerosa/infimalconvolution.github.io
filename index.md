@@ -33,7 +33,7 @@ I have been a student of [Collegio Universitario don Nicola Mazza](https://www.c
 - *Bias Versus Non-Convexity in Compressed Sensing*, with Marcus Carlsson and Carl Olsson, 2022. Journal of Mathematical Imaging and Vision. [[eprint](https://link.springer.com/article/10.1007/s10851-022-01071-5)]
 - *On phase retrieval via matrix completion and the estimation of low rank PSD matrices*, with Marcus Carlsson, 2019. *Inverse Problems*, 36(1). [[arXiv](https://arxiv.org/pdf/1907.09537v2.pdf), [eprint](https://iopscience.iop.org/article/10.1088/1361-6420/ab4e6d/meta)]
 - *An un-biased approach to low rank recovery*, with Marcus Carlsson and Carl Olsson, 2019. Submitted. [[arXiv](https://arxiv.org/pdf/1909.13363v2.pdf)]
-- *Relaxations for Non-Separable Cardinality/Rank Penalties*, with Carl Olsson and Marcus Carlsson, 2021. Accepted to the ICCV workshop ''Robust Subspace Learning and Applications in Computer Vision'' (October 2021). [[arXiv](https://arxiv.org/abs/2107.04349v1),[ICCV](https://openaccess.thecvf.com/content/ICCV2021W/RSLCV/papers/Olsson_Relaxations_for_Non-Separable_CardinalityRank_Penalties_ICCVW_2021_paper.pdf)]
+- *Relaxations for Non-Separable Cardinality/Rank Penalties*, with Carl Olsson and Marcus Carlsson, 2021. Accepted to the ICCV workshop ''Robust Subspace Learning and Applications in Computer Vision'' (October 2021). [[arXiv](https://arxiv.org/abs/2107.04349v1), [ICCV](https://openaccess.thecvf.com/content/ICCV2021W/RSLCV/papers/Olsson_Relaxations_for_Non-Separable_CardinalityRank_Penalties_ICCVW_2021_paper.pdf)]
 
 ### Conferences, Workshops & Seminars
 - **15-17 May 2018, Lund.** [CodeRefinery Workshop](https://coderefinery.org/workshops/2018-05-15-lund/).
