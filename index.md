@@ -6,9 +6,9 @@ I also enjoy solving hard and challenging problems in Real and Functional Analys
 [Here](https://www.lunduniversity.lu.se/lucat/user/2d8ba6912dbc7ae12dce2825925c0d50) my institutional email address.
 
 ### Short CV
-- **September 2017 - ongoing (defense expected within September 2022).** PhD in Mathematics at Lunds Universitet (Sweden), Center for Mathematical Sciences.
+- **September 2017 - April 2022.** PhD in Mathematics at Lunds Universitet (Sweden), Centre for Mathematical Sciences.
 
-   As part of departmental duties I work as teaching assistant in several courses. So far I led more than 400 hours of exercises sessions (Analysis in One Variable, Linear Algebra II, Analysis in Several Variables I & II). Grading of exams and mid-term assignments is part of teaching duties too.
+   As part of departmental duties I work as teaching assistant in several courses. So far I led more than 450 hours of exercises sessions (Analysis in One Variable, Linear Algebra II, Analysis in Several Variables I & II). Grading of exams and mid-term assignments is part of teaching duties too.
    
    In Sweden doctoral education consists also in a certain number of advanced courses to be attended (60 ECTS at least). I have so far attended the following: specialized course in Distributions Theory (classical Pseudo-Differential Operators theory, Paradifferential Calculus), specialized course in Linear Functional Analysis, advanced course in Calculus of Variations, Convex Analysis, X-Ray Optics, Introduction to Deep Learning, Image Analysis, Machine Learning, Nonparametric Inference, Teaching and Learning in Higher Education.
 
