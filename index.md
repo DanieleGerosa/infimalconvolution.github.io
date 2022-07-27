@@ -28,7 +28,7 @@ I also enjoy solving hard and challenging problems in Real and Functional Analys
 I have been a student of [Collegio Universitario don Nicola Mazza](https://www.collegiomazza.it/en/) for the entire period of my Italian academic education.
 
 ### Manuscripts & Publications
-- *A Trace Theorem for Martinet-type Vector Fields*, with Roberto Monti and Daniele Morbidelli, 2019. *Communications in Contemporary Mathematics*. [[cvgmt](http://cvgmt.sns.it/paper/4095/), [arXiv](https://arxiv.org/pdf/1806.07953.pdf), [eprint](https://doi.org/10.1142/S0219199719500664)]
+- *A Trace Theorem for Martinet-type Vector Fields*, with Roberto Monti and Daniele Morbidelli, 2021. *Communications in Contemporary Mathematics*, 23(2) 1950066 [[cvgmt](http://cvgmt.sns.it/paper/4095/), [arXiv](https://arxiv.org/pdf/1806.07953.pdf), [eprint](https://doi.org/10.1142/S0219199719500664)]
 - *An unbiased approach to compressed sensing*, with Marcus Carlsson and Carl Olsson, 2020. *Inverse Problems*, 36(11). [[arXiv](https://arxiv.org/abs/1806.05283v6), [eprint](https://iopscience.iop.org/article/10.1088/1361-6420/abbd7f)]
 - *Bias Versus Non-Convexity in Compressed Sensing*, with Marcus Carlsson and Carl Olsson, 2022. *Journal of Mathematical Imaging and Vision*, 64(4), 379-394. [[eprint](https://link.springer.com/article/10.1007/s10851-022-01071-5)]
 - *On phase retrieval via matrix completion and the estimation of low rank PSD matrices*, with Marcus Carlsson, 2019. *Inverse Problems*, 36(1). [[arXiv](https://arxiv.org/pdf/1907.09537v2.pdf), [eprint](https://iopscience.iop.org/article/10.1088/1361-6420/ab4e6d/meta)]
