@@ -3,6 +3,8 @@ I have a PhD in Mathematics from Lund University, [Center for Mathematical Scien
 
 I am currently working as Algorithm Developer for Bosch Sensortech in Lund.
 
+My personal email address is gerosa.dan at gmail dot com
+
 ### Short CV
 - **September 2017 - April 2022.** PhD in Mathematics at Lunds Universitet (Sweden), Centre for Mathematical Sciences.
 
